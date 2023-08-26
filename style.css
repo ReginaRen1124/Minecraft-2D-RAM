@@ -1,0 +1,28 @@
+.body_background{
+    background-image: url("https://i.ytimg.com/vi/Dg0IjOzopYU/maxresdefault.jpg");
+  background-position: center;
+  background-size: cover;  
+}
+#myCanvas{
+    border-width: 10px;
+    background-color: aliceblue;
+    border-style: ridge;
+}
+h2{
+  border-radius: 10px;
+  width: 200px;
+  padding: 5px;
+}
+h3{
+  display: inline-block;
+}
+span{
+  color: black;
+}
+a{
+  text-decoration: none;
+  font-size: 20px;
+  padding: 16;
+  float:left;
+  border-radius: ;
+}
